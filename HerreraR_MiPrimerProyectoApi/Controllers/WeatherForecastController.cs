@@ -1,3 +1,4 @@
+using HerreraR_MiPrimerProyectoApi.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HerreraR_MiPrimerProyectoApi.Controllers;

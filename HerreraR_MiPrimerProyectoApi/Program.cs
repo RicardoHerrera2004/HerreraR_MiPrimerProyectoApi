@@ -1,3 +1,4 @@
+﻿using HerreraR_MiPrimerProyectoApi.Controllers;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -21,5 +22,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapCuentaEndpoints();
 
 app.Run();

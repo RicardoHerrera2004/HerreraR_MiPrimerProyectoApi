@@ -1,4 +1,4 @@
-namespace HerreraR_MiPrimerProyectoApi
+namespace HerreraR_MiPrimerProyectoApi.Models
 {
     public class WeatherForecast
     {
