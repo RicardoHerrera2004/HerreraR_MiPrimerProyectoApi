@@ -1,0 +1,6 @@
+@HerreraR_MiPrimerProyectoApi_HostAddress = http://localhost:5103
+
+GET {{HerreraR_MiPrimerProyectoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
